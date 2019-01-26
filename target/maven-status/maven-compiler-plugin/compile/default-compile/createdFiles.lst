@@ -1,0 +1,11 @@
+ua\kiev\prog\domain\Group.class
+sample\jsp\SampleWebJspApplication.class
+ua\kiev\prog\domain\Contact.class
+ua\kiev\prog\dao\ContactRepository.class
+ua\kiev\prog\service\ContactService.class
+ua\kiev\prog\controller\MyController.class
+ua\kiev\prog\Application$1.class
+ua\kiev\prog\Application.class
+ua\kiev\prog\AppConfig.class
+ua\kiev\prog\dao\GroupRepository.class
+sample\jsp\WelcomeController.class
